@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Newsly</string>
+    <string name="nav_bar_icon">Nav bar icon</string>
+    <string name="retry">Retry</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="article_image">Article main image</string>
+    <string name="error_image">Error image</string>
+    <string name="no_content_provided">No content provided</string>
+    <string name="description">Description:</string>
+    <string name="content">Content:</string>
+    <string name="search">Search</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create account</string>
+    <string name="search_hint">Start typing something to find articles you want</string>
+    <string name="author">Author:</string>
+    <string name="registration">Registration</string>
+    <string name="authorization">Authorization</string>
+    <string name="welcome">Welcome!</string>
+    <string name="data">Data:</string>
+    <string name="edit_profile">Edit profile</string>
+    <string name="save">Save</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="back_nav_icon">Back navigation icon </string>
+</resources>
