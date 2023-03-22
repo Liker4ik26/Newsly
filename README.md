@@ -38,6 +38,14 @@
 |:-------------------------------------------------:|
 | <img src="assets/search_screen.jpg" height="400"> |
 
+## How to run
+* You need Android Studio (at least Arctic Fox) with Kotlin plugin (at least 1.6.10)
+* Add `apiKey=<YourKey>` in `local.properties` file, for example `apiKey="96766ee982e642d7957abb90a7559838"`
+* Run -> Run 'app'
+
+## Known issues
+* The used API has quite hard limits for developers
+
 ## Topics
 * DI
 * Navigation
